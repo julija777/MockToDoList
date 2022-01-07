@@ -1,4 +1,4 @@
-# ToDoList. First week of react.
+# ToDoList. First week of React.
 
 Files created in learning purposes, to learn hooks, syntax of react, right connections between files.
 
